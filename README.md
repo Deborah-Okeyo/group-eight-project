@@ -77,8 +77,51 @@ This process is crucial as clean and accurate data is essential for building rel
 
 # Results
 ## Genres
-group-eight-project\Most_Profitable_Languages.png
+
+![Most Profitable Languages](group-eight-project/Most_Profitable_Languages.png)
+
 The top 5 most profitable genres are Adventure, Action, Comedy, Drama and Animation.
 
 ## Languages
-group-eight-project\Most_Popular_Languages.png
+
+![Most Popular Languages](group-eight-project/Most_Popular_Languages.png)
+
+The top 5 most profitable languages are Thai, Telugu, English, Hungarian and Hindi
+
+## Month of Release
+
+![Most Profitable Months](group-eight-project/Most_Profitable_Months.png)
+
+The top 3 most profitable months are June, May, July, November and December.
+
+# Correlation
+
+![Correlation Heatmap](group-eight-project/Correlation%20Representation%20Using%20a%20Heatmap.png)
+
+We observe a positive correlation among all the variables, though the strength of these correlations varies. A positive correlation indicates that as one variable increases, the other variable also tends to increase, demonstrating a direct relationship between the two. For example, if one variable shows an upward trend, the correlated variable typically follows suit.
+
+# Conclusion
+## 1. What genre of films are performing best at box office?
+The genres were analyzed based on profit, budget, popularity, and rating. To determine the best-performing genres, we combined the top three from each of these categories. These genres are Adventure, Action, Comedy, and Drama. However, the heatmap shows that rating has a weak correlation with profit and popularity, so we will not consider rating in our final assessment. Since higher budgets correlate with higher popularity and profit, the top genres are Adventure, Action, and Comedy.
+
+## 2. Which languages are most successful in terms of box office revenue?
+The languages were analyzed based on profit, popularity, budget, and rating. To identify the top-performing languages, we combined the top three from each of these categories. The top languages are Thai, Telugu, English, Danish, Modern Greek, German, and Spanish. Considering both profit and popularity, the best languages for films are Thai, Telugu, and English.
+
+## 3. How does the month of release impact profitability?
+The release months with the highest profits are June, May, July, November, and December. These months coincide with school breaks and work vacations, which likely contributes to the higher profitability of movies released during these periods. Families and individuals tend to have more free time during these months, leading to increased movie attendance and higher box office revenues.
+
+## 4. Is there a correlation between the duration of films and other factors?
+No, runtime minutes for a film have a weak positive correlation with the quantitative variables, so we cannot use it for our analysis. The runtime does not significantly impact a film's profitability or popularity, meaning the duration can vary. Therefore, it will not be included in our recommendations.
+
+# 6. Recommendations
+1.The ideal genres to produce are Adventure, Action, and Comedy.
+
+2. The optimal languages for these films are Thai, Telugu, and English. 
+
+3.The best months to release these films are June, May, and July.
+
+
+
+
+
+
