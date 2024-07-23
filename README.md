@@ -63,8 +63,8 @@ Load the libraries required for the analysis
 ## 2.3 Loading the Data
 Load the compressed CSV files and the IMDB zippedfile. Unpack the IMDB file then query it using SQLite then convert the movie basics tables and movie ratings tables into dataframes.
 # Data Cleaning
-Here, we will perform data cleaning. This involves preparing the data for analysis by removing irrelevant or incorrect information, which can negatively impact the model or algorithm by reinforcing incorrect assumptions.
 
+Here, we will perform data cleaning. This involves preparing the data for analysis by removing irrelevant or incorrect information, which can negatively impact the model or algorithm by reinforcing incorrect assumptions.
 We will analyze each of the five datasets separately. Our data cleaning steps include:
 
 1.Completeness - Ensure that the datasets have no missing values.
@@ -74,3 +74,11 @@ We will analyze each of the five datasets separately. Our data cleaning steps in
 3.Consistency - Ensure that there are no duplicate entries in the data.
 
 This process is crucial as clean and accurate data is essential for building reliable and effective models.
+
+# Results
+## Genres
+group-eight-project\Most_Profitable_Languages.png
+The top 5 most profitable genres are Adventure, Action, Comedy, Drama and Animation.
+
+## Languages
+group-eight-project\Most_Popular_Languages.png
