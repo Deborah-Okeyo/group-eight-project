@@ -78,7 +78,7 @@ This process is crucial as clean and accurate data is essential for building rel
 # Results
 ## Genres
 
-(image.png)
+![Most Profitable Genre](image-4-1.png)
 
 The top 5 most profitable genres are Adventure, Action, Comedy, Drama and Animation.
 
