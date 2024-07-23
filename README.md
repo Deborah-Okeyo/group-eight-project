@@ -78,25 +78,25 @@ This process is crucial as clean and accurate data is essential for building rel
 # Results
 ## Genres
 
-![Most Profitable Languages](group-eight-project/Most_Profitable_Languages.png)
+![Most Profitable Languages](image.png)
 
 The top 5 most profitable genres are Adventure, Action, Comedy, Drama and Animation.
 
 ## Languages
 
-![Most Popular Languages](group-eight-project/Most_Popular_Languages.png)
+![Most Popular Languages](image-1.png)
 
 The top 5 most profitable languages are Thai, Telugu, English, Hungarian and Hindi
 
 ## Month of Release
 
-![Most Profitable Months](group-eight-project/Most_Profitable_Months.png)
+![Most Profitable Months](image-2.png)
 
 The top 3 most profitable months are June, May, July, November and December.
 
 # Correlation
 
-![Correlation Heatmap](group-eight-project/Correlation%20Representation%20Using%20a%20Heatmap.png)
+![Correlation Heatmap](image-3.png)
 
 We observe a positive correlation among all the variables, though the strength of these correlations varies. A positive correlation indicates that as one variable increases, the other variable also tends to increase, demonstrating a direct relationship between the two. For example, if one variable shows an upward trend, the correlated variable typically follows suit.
 
