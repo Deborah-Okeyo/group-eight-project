@@ -1,6 +1,7 @@
 # group-eight-project
 # FROM SCRIPT TO SCREEN: WHAT MAKES BOX OFFICE HIT?
 # 1. Introduction
+![pexels-hatice-796619215-27219316](https://github.com/user-attachments/assets/eb85b286-1b8e-472d-860d-86cbd9694dcf)
 # 1.1 Overview
 Applying exploratory data analysis to provide insights for a Microsoft stakeholder on which types of films to produce.
 ## 1.2 Business Understanding
