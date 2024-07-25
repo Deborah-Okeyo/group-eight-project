@@ -121,7 +121,7 @@ No, runtime minutes for a film have a weak positive correlation with the quantit
 
 3.The best months to release these films are June, May, and July.
 
-## Project Dashboard
+# Project Dashboard
 
 For more detailed insights, visit our [Tableau Dashboard](https://public.tableau.com/views/Phase2Dashboard_17218944880860/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
