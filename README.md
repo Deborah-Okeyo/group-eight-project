@@ -140,7 +140,8 @@ For more detailed insights, visit our [Tableau Dashboard](https://public.tableau
 
 # Project Presentation
 
-To view the detailed presentation of our findings, please visit the [Project Presentation](https://public.tableau.com/views/Phase2Dashboard_17218944880860/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+To view the detailed presentation of our findings, please visit the [Project Presentation](https://www.canva.com/design/DAGL8MKG-HQ/J0LTgicyluKfVFK9cZ25Dg/edit?utm_content=DAGL8MKG-HQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
+
 
 
 
