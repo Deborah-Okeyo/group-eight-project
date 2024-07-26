@@ -1,5 +1,15 @@
 # group-eight-project
 # FROM SCRIPT TO SCREEN: WHAT MAKES BOX OFFICE HIT?
+# Project By
+
+1.David Chege
+
+2.Evans Oyugi
+
+3.Deborah Okeyo
+
+Marion Macharia
+
 # 1. Introduction
 ![pexels-hatice-796619215-27219316](https://github.com/user-attachments/assets/eb85b286-1b8e-472d-860d-86cbd9694dcf)
 # 1.1 Overview
@@ -128,6 +138,9 @@ No, runtime minutes for a film have a weak positive correlation with the quantit
 
 For more detailed insights, visit our [Tableau Dashboard](https://public.tableau.com/views/Phase2Dashboard_17218944880860/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
+# Project Presentation
+
+To view the detailed presentation of our findings, please visit the [Project Presentation](https://public.tableau.com/views/Phase2Dashboard_17218944880860/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 
 
