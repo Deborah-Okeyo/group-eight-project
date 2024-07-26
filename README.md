@@ -6,8 +6,11 @@
 Applying exploratory data analysis to provide insights for a Microsoft stakeholder on which types of films to produce.
 ## 1.2 Business Understanding
 *Objective*
+
 The goal of this project is to use exploratory data analysis (EDA) to draw insights to aid the making of a new movie studio looking to enter the film industry and needs to determine which types of films are currently est performing at the box office. By analyzing various datasets related to movie performance. The objective is to identify trends and characteristics of successful films that can guide the studio’s content creation strategy.
+
 *Business context*
+
 With the evolution of film industry, understanding the market and consumer preferences is essential for new entrants. A new movie studio must leverage data-driven insights to make informed decisions about film production. The business wants to identify which factors contribute to box office success to maximize their investment and ensure their film offerings align with market demands.
 # 2. Data Understanding
 ## 2.1 Data
